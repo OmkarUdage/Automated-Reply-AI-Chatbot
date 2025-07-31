@@ -1,6 +1,6 @@
 # 🤖 Automated Reply AI Chatbot
 
-An AI auto-responder bot built with Python, PyAutoGUI, and the Cohere API. This bot reads chat messages from WhatsApp Web, generates smart replies using AI, and sends them automatically — all while giving you control through a GUI STOP button.
+An AI auto-responder bot built with Python, PyAutoGUI, and the Cohere API. This bot reads chat messages from WhatsApp Web, generates smart replies using AI, and sends them automatically — all while giving you control through a GUI STOP button to terminate the program.
 
 ---
 
