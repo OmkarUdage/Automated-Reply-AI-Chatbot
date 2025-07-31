@@ -6,18 +6,11 @@ An AI auto-responder bot built with Python, PyAutoGUI, and the Cohere API. This 
 
 ## 🚀 Features
 
-- 🔄 Automatically reads chat messages via screen automation
-- 🤖 Generates intelligent replies using Cohere AI
-- 🧠 Responds only when the last message is from the target person
-- 🖱️ Uses PyAutoGUI for selecting, copying, and pasting messages
+- 🔄 Automatically reads chat messages through screen automation
+- 🤖 Generates replies using Cohere AI
+- 🧠 Responds only when the last message is from the target or opposite person
+- 🖱️ Uses PyAutoGUI for selecting, copying, and pasting text messages
 - 🛑 Includes a STOP button GUI to safely terminate the bot
 - 🔒 Securely stores your API key in a `.env` file (never exposed)
 
 ---
-
-## 📦 Requirements
-
-Make sure you have Python 3.7+ and install the dependencies:
-
-```bash
-pip install -r requirements.txt
